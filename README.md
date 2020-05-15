@@ -1,4 +1,7 @@
 # 웹 애플리케이션 서버
+
+* 우아한테크코스 레벨3의 미션 저장소입니다.
+* [코드리뷰](https://github.com/woowacourse/jwp-was/pull/55)([step1코드리뷰](https://github.com/woowacourse/jwp-was/pull/12))
 ## convention
 
 * git: https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
